@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../SkillWill"
+		},
+		{
+			"path": "../../PRACTIC"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TechSpace"
+	}
+}
